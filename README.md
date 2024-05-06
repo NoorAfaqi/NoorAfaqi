@@ -1,4 +1,6 @@
-👋 Hi, I’m @NoorAfaqi, an Android app developer passionate about Java/Kotlin. Experienced in Jetpack Compose and Material UI for frontend design. Excited to collaborate on projects and explore AI integration.
+👋 Hi, I’m @NoorAfaqi, an Android app developer passionate about Java/Kotlin. 
+- Experienced in Jetpack Compose and Material UI for frontend design.
+- Excited to collaborate on projects and explore AI integration.
 - 📫 How to reach me;
 Email: noorafaqi363@gmail.com
 
