@@ -26,6 +26,9 @@
 
 **I'm always looking for new challenges and opportunities to learn and grow. Feel free to reach out if you have any questions or interesting projects!**
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=NoorAfaqi&label=Profile%20Views&color=blue&style=plastic)
+
 <!---
 NoorAfaqi/NoorAfaqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
